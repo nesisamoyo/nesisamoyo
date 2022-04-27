@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nesisamoyo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on software project developments
+- 💞️ I’m looking to collaborate on open source software
 - 📫 How to reach me @moyonesisam@gmail.com
 ...
 <!---
